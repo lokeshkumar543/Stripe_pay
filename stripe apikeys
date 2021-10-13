@@ -1,0 +1,6 @@
+STRIPE_PUBLISHABLE_KEY = 'pk_test_51JjfnDSHQMfNKQOEUNEtxOsOGTfyEHSP5nYg1o2saluigHMYLWo0Mk5n9kk37EabGZeepyQtFMnCrBCQiGVauf7q00wqiMnHDs'
+STRIPE_SECRET_KEY = 'sk_test_51JjfnDSHQMfNKQOEjmrN647buOO2s0F8TObK1BKjtMfCsfQR4EU2U5yLtHynf4yDFAHR0D65lNrHkSlbQ8dsAF3600za8oYRED'
+
+Stripe account
+email:sparkbrainsteam@gmail.com
+password:spark@brains
